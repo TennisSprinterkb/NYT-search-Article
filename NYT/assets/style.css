@@ -1,0 +1,17 @@
+#banner{
+    background:navy;
+    text-align: center;
+    padding: 3em;
+    margin: 0em 1em 0em 1em;
+}
+h1 {
+    color: white;
+}
+h3 {
+    background: lightblue;
+    margin-top: 1em;
+}
+body {
+    max-width: 960px;
+    margin: 0 auto;
+}
